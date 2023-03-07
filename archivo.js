@@ -67,9 +67,9 @@ while (opcion !="2") {
 }
 }
 
-bienvenida ();
-simulador ();
-finalizar ();
+//bienvenida ();
+//simulador ();
+//finalizar ();
 
 class datosUsuarios  {
     constructor (nombre, contrasenia, edad, banco){
