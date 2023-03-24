@@ -1,0 +1,25 @@
+{
+  "usuarios": [
+    {
+      "apellido": "Ferrer",
+      "nombre": "augusto",
+      "dni": "33333333",
+      "contrasena": "123456",
+      "email": "augusto@gmail.com"
+    },
+    {
+      "apellido": "Gonzalez",
+      "nombre": "Tomas",
+      "dni": "444444444",
+      "contrasena": "678910",
+      "email": "gonzalestomas@gmail.com"
+    },
+    {
+      "apellido": "perez",
+      "nombre": "andrea",
+      "dni": "555555555",
+      "contrasena": "1234789",
+      "email": "pereza_andrea@gmail.com"
+    }
+  ]
+}
